@@ -1,0 +1,3 @@
+[submodule "include/stm32-swo-logger"]
+	path = include/stm32-swo-logger
+	url = git@github.com:cosmas375/stm32-swo-logger.git
